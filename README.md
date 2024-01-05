@@ -1,5 +1,6 @@
 # Steganography
-Python Code to Steganize your Tweets
+# Python Code to Steganize your Tweets; needs to be cleaned up
+
 from nltk import word_tokenize
 from nltk.util import ngrams
 from collections import Counter
