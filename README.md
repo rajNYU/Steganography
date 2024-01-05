@@ -186,7 +186,3 @@ while (supercount2 < 100) and (done == 0) :
                 print("bad Bigram", gram)
 #                done = 0
         supercount2 = supercount2 + 1
-    
-# print(Counter(newbig
-
-#dec
